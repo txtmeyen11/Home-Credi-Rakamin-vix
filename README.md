@@ -35,6 +35,6 @@ Home Credit Indonesia menghadapi tantangan dalam mengoptimalkan sistem penilaian
 
 1. Dengan memanfaatkan model prediktif yang telah diperbarui, tim Home Credit Indonesia dapat memfokuskan keputusan pada peningkatan persetujuan pinjaman untuk pelanggan yang memiliki kemampuan pembayaran yang tinggi. Hal ini dapat meningkatkan jumlah pinjaman yang disetujui tanpa mengorbankan kualitas risiko.
 
-Berdasarkan temuan model, diketahui bahwa nilai approval rate adalah sebesar 91.92%, sehingga tim Home Credit Indonesia dapat melakukan penyesuaian syarat pinjaman berdasarkan waktu yang lebih efektif. Penyesuaian ini dapat memberikan insentif lebih kepada pelanggan untuk mencapai pembayaran yang sukses.
+2. Berdasarkan temuan model, diketahui bahwa nilai approval rate adalah sebesar 91.92%, sehingga tim Home Credit Indonesia dapat melakukan penyesuaian syarat pinjaman berdasarkan waktu yang lebih efektif. Penyesuaian ini dapat memberikan insentif lebih kepada pelanggan untuk mencapai pembayaran yang sukses.
 
-Perkuat pemahaman terhadap faktor-faktor risiko utama yang memengaruhi keputusan kredit dengan fokus pada interpretabilitas model. Hal ini akan memberikan wawasan yang lebih baik kepada tim keputusan kredit Home Credit Indonesia dan membantu dalam pengambilan keputusan yang lebih akurat.
+3. Perkuat pemahaman terhadap faktor-faktor risiko utama yang memengaruhi keputusan kredit dengan fokus pada interpretabilitas model. Hal ini akan memberikan wawasan yang lebih baik kepada tim keputusan kredit Home Credit Indonesia dan membantu dalam pengambilan keputusan yang lebih akurat.
